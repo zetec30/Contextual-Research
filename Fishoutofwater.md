@@ -1,5 +1,13 @@
 # Response to – A fish can’t judge the water.
 
+## http://ospublish.constantvzw.org/blog/news/a-fish-cant-judge-the-water
+
+## A FISH CAN’T JUDGE THE WATER
+
+> News · June 2nd, 2006 · Femke
+
+> Constant’s contribution to OknoPublic01, May 26 2006
+
 In reference to “Do we use software to think?”.   The answer to this from my own opinion is yes, we do use software to think.    I’m writing this discussion in word and every now and then I spell check to help me think if I’ve spelt something right.
 We search the internet looking for ideas on purchases for say Christmas or birthdays.   So, websites are helping us decide what to buy or targeted ads based on search results. We have information implanted to us, so we do think more.
 
