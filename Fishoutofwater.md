@@ -2,7 +2,9 @@
 
 In reference to “Do we use software to think?”.   The answer to this from my own opinion is yes, we do use software to think.    I’m writing this discussion in word and every now and then I spell check to help me think if I’ve spelt something right.
 We search the internet looking for ideas on purchases for say Christmas or birthdays.   So, websites are helping us decide what to buy or targeted ads based on search results. We have information implanted to us, so we do think more.
-My physiotherapist used the following analogy to explain how humans use tools to negotiate the space around their bodies:
+
+> My physiotherapist used the following analogy to explain how humans use tools to negotiate the space around their bodies:
+
 The idea is interesting with human input and senses being inputted against a post human cyborg.
 These implying robots work with human input to start with, they learn from us, there is no post human robot without human input like machine learning software.   A cyborg can feel and express emotion if software is told to do this by a human.
 It has become our natural habitat.
