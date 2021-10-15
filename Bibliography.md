@@ -7,3 +7,13 @@
 News · June 2nd, 2006 · Femke
 
 Constant’s contribution to OknoPublic01, May 26 2006
+
+PROSTHETICS AND ORTHOTICS RESEARCH
+https://www.mayo.edu/research/labs/motion-analysis/research/prosthetics-orthotics-research
+
+Prosthetic technology
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121287/
+
+Research Overview - Northwestern University Prosthetics ...https://www.nupoc.northwestern.edu › research
+
+Prosthetics & Orthotics and Orthopaedic Devices - University ...https://www.southampton.ac.uk › assistive-technologies
