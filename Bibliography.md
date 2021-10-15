@@ -17,3 +17,5 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121287/
 Research Overview - Northwestern University Prosthetics ...https://www.nupoc.northwestern.edu › research
 
 Prosthetics & Orthotics and Orthopaedic Devices - University ...https://www.southampton.ac.uk › assistive-technologies
+
+https://www.sciencedaily.com/releases/2019/02/190221110357.htm
