@@ -1,0 +1,69 @@
+Fotoforensics: allows a user to upload an image outputting the software and version that created it. I had to try this out!. Uploaded an image I was curious about and the feedback was glitched.
+I proceeded to click on games in the left hand side panel that turned my image into a puzzle game, many pieces that you move to put back together.
+I had skipped digest so tried this next witht he below.
+
+Filename:	NIVOLA.jpg
+Filetime:	2021-10-18 10:09:21 GMT
+File Type:	image/jpeg
+Dimensions:	348x499
+Color Channels:	3
+Unique Colors:	45,737
+File Size:	36,133 bytes
+MD5:	f8e042a89e8e416f5fc58e342f478ea8
+SHA1:	a09c737b92a99ea139ac90c6c88458a144e32f44
+SHA256:	27e31055e6f6bcbdc6f3cac6d457fad44c6157f91b7828c86604272aca72e532
+First Analyzed:	2021-10-18 14:31:56 GMT
+
+Moving on to JPEG %
+
+Summary
+JPEG last saved at 75% quality (estimated)
+Quantization Tables
+Quality determined from the quantization tables that encoded the JPEG:
+
+JPEG Q0: Luminance
+9	9	8	11	14	16	18	18
+10	10	11	11	12	22	14	20
+8	9	11	10	15	22	22	25
+11	11	11	20	18	19	32	19
+10	13	16	15	24	26	36	28
+19	21	20	20	30	28	29	55
+23	15	18	25	33	50	42	37
+15	20	24	43	34	51	34	48
+Applied as 8x8 JPEG Q1: Chrominance
+
+6	11	14	11	14	29	12	16
+10	13	12	16	20	23	22	9
+11	12	13	13	8	16	30	25
+14	12	12	30	17	17	12	13
+14	34	14	23	25	8	16	12
+20	23	11	17	34	29	15	21
+21	16	11	24	15	22	20	35
+19	20	29	20	16	11	22	24
+Applied as 16x16
+
+I see binary numbers above which I'm guessing is the digital make up of the image.
+
+Next the Meta data.
+
+File
+File Type	JPEG
+File Type Extension	jpg
+MIME Type	image/jpeg
+Image Width	348
+Image Height	499
+Encoding Process	Progressive DCT, Huffman coding
+Bits Per Sample	8
+Color Components	3
+Y Cb Cr Sub Sampling	YCbCr4:2:0 (2 2)
+JFIF
+JFIF Version	1.01
+Resolution Unit	None
+X Resolution	1
+Y Resolution	1
+Composite
+Image Size	348x499
+Megapixels	0.174
+
+I wont add strings as this was rather long but what an eye opener to the ammount of data in one image.
+
