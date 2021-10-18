@@ -24,3 +24,5 @@ fotoforensics
 http://fotoforensics.com/
 
 http://noortjemarres.net/wp-content/uploads/2018/08/GrayMarres_DataCityPublicExperiment-copy.pdf
+
+https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
