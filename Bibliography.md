@@ -22,3 +22,5 @@ https://www.sciencedaily.com/releases/2019/02/190221110357.htm
 
 fotoforensics
 http://fotoforensics.com/
+
+http://noortjemarres.net/wp-content/uploads/2018/08/GrayMarres_DataCityPublicExperiment-copy.pdf
