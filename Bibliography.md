@@ -19,3 +19,6 @@ Research Overview - Northwestern University Prosthetics ...https://www.nupoc.nor
 Prosthetics & Orthotics and Orthopaedic Devices - University ...https://www.southampton.ac.uk › assistive-technologies
 
 https://www.sciencedaily.com/releases/2019/02/190221110357.htm
+
+fotoforensics
+http://fotoforensics.com/
