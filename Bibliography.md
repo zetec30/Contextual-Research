@@ -27,6 +27,7 @@ http://noortjemarres.net/wp-content/uploads/2018/08/GrayMarres_DataCityPublicExp
 
 https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 
+https://pubmed.ncbi.nlm.nih.gov/32525868/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4435686/
 
 https://medlineplus.gov/artificiallimbs.html#:~:text=If%20you%20are%20missing%20an,nearly%20as%20well%20as%20before.
@@ -35,4 +36,8 @@ https://postacutemedical.com/company/company-updates/life-after-amputation-what-
 
 https://pubmed.ncbi.nlm.nih.gov/10688725/#:~:text=Results%3A%20A%20total%20of%2034,(chemical%20or%20physical)%20dermatitis.
 
-https://www.amputee-coalition.org/
+https://pubmed.ncbi.nlm.nih.gov/33543086/
+
+https://pubmed.ncbi.nlm.nih.gov/33082192/
+
+https://pubmed.ncbi.nlm.nih.gov/34503484/
