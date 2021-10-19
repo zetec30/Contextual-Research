@@ -46,4 +46,5 @@ Osseointegrated reconstruction and rehabilitation of transtibial amputees: the O
 
 https://pubmed.ncbi.nlm.nih.gov/33082192/
 
+The association between body mass index and skin problems in persons with a lower limb amputation: an observational study
 https://pubmed.ncbi.nlm.nih.gov/34503484/
