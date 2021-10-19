@@ -37,7 +37,7 @@ https://postacutemedical.com/company/company-updates/life-after-amputation-what-
 https://pubmed.ncbi.nlm.nih.gov/10688725/#:~:text=Results%3A%20A%20total%20of%2034,(chemical%20or%20physical)%20dermatitis.
 
 https://pubmed.ncbi.nlm.nih.gov/33543086/
-
+The association between body mass index and skin problems in persons with a lower limb amputation: an observational study
 https://pubmed.ncbi.nlm.nih.gov/33082192/
 
 https://pubmed.ncbi.nlm.nih.gov/34503484/
