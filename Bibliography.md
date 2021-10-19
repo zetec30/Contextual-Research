@@ -33,4 +33,6 @@ https://medlineplus.gov/artificiallimbs.html#:~:text=If%20you%20are%20missing%20
 
 https://postacutemedical.com/company/company-updates/life-after-amputation-what-to-expect-for-the-new-amputee
 
+https://pubmed.ncbi.nlm.nih.gov/10688725/#:~:text=Results%3A%20A%20total%20of%2034,(chemical%20or%20physical)%20dermatitis.
+
 https://www.amputee-coalition.org/
