@@ -51,3 +51,5 @@ Sensing and actuation technologies for smart socket prostheses
 https://pubmed.ncbi.nlm.nih.gov/32175132/
 
 https://pubmed.ncbi.nlm.nih.gov/32021860/
+
+https://pubmed.ncbi.nlm.nih.gov/31256276/
