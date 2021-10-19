@@ -36,6 +36,7 @@ https://postacutemedical.com/company/company-updates/life-after-amputation-what-
 
 https://pubmed.ncbi.nlm.nih.gov/33543086/
 
+Skin disorders in amputees
 
 https://pubmed.ncbi.nlm.nih.gov/10688725/#:~:text=Results%3A%20A%20total%20of%2034,(chemical%20or%20physical)%20dermatitis.
 
