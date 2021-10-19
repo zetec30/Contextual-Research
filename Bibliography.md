@@ -30,3 +30,5 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4435686/
 
 https://medlineplus.gov/artificiallimbs.html#:~:text=If%20you%20are%20missing%20an,nearly%20as%20well%20as%20before.
+
+https://postacutemedical.com/company/company-updates/life-after-amputation-what-to-expect-for-the-new-amputee
