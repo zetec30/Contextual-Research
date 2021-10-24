@@ -10,6 +10,7 @@ Constant’s contribution to OknoPublic01, May 26 2006
 
 PROSTHETICS AND ORTHOTICS RESEARCH
 https://www.mayo.edu/research/labs/motion-analysis/research/prosthetics-orthotics-research
+Kaufman, K., 2021. Motion Analysis: Kenton R. Kaufman - Prosthetics and Orthotics Research. [online] Mayo Clinic. Available at: <https://www.mayo.edu/research/labs/motion-analysis/research/prosthetics-orthotics-research> [Accessed 24 October 2021].
 
 Prosthetic technology
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121287/
