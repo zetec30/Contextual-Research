@@ -10,8 +10,8 @@
 
  > 4. Kaufman, K., 2021. Motion Analysis: Kenton R. Kaufman - Prosthetics and Orthotics Research. [online] Mayo Clinic. Available at:          <https://www.mayo.edu/research/labs/motion-analysis/research/prosthetics-orthotics-research> [Accessed 24 October 2021].
 
-Prosthetic technology
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121287/
+> 5.Prosthetic technology
+  Dl.uswr.ac.ir. 2021. [online] Available at: <https://dl.uswr.ac.ir/bitstream/Hannan/139215/1/9781936287703.pdf> [Accessed 22 October 2021].
 
 Research Overview - Northwestern University Prosthetics ...https://www.nupoc.northwestern.edu › research
 
