@@ -1,5 +1,6 @@
 # MRes Notes 2021. Mike Austin Plymouth University.
 
+Amputee Mental Health.
 
 > Amputation presents multi-directional challenges. It affects function, sensation and body image. The psychological reactions vary greatly and depend on many factors and variable. In most cases, the predominant experience of the amputee is one of loss: not only the obvious loss of the limb but also resulting losses in function, self-image, career and relationships[1].
 
