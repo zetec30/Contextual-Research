@@ -16,19 +16,21 @@
 
 > 7.Marks, A., 2021. Chapter 1, HOW WE WALK. [online] Oandplibrary.org. Available at: <http://www.oandplibrary.org/assets/pdf/Manual_of_artificial_limbs.pdf> [Accessed 24 October 2021].
 
-Prosthetics & Orthotics and Orthopaedic Devices - University ...https://www.southampton.ac.uk › assistive-technologies
+> 8.fotoforensics
+Fotoforensics.com. 2021. FotoForensics. [online] Available at: <http://fotoforensics.com/> [Accessed 24 October 2021].
 
-https://www.sciencedaily.com/releases/2019/02/190221110357.htm
+> 9.Boyd, D. (2014) It’s Complicated: The social Lives of Networked Teens, Yale University Press: New Haven (pp.29-54).
 
-fotoforensics
-http://fotoforensics.com/
+> 10.Turkle, S. (2011) Alone Together: Why We Expect More from Technology and Less from Each Other, Basic Books: New York (pp.1-20).
 
-http://noortjemarres.net/wp-content/uploads/2018/08/GrayMarres_DataCityPublicExperiment-copy.pdf
+> 11.Zylinska, J. & Hall, G. (2002) ‘Probings: an Interview with Stelarc’ (with G.Hall), in The Cyborg Experiments: the Extensions of the Body in the Media Age, ed.
 
+> 12.Joanna Zylinska (London and New York: Continuum), pp. 114-130. [authors’s self-archived manuscript]        
 https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 
-https://pubmed.ncbi.nlm.nih.gov/32525868/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4435686/
+> 13.Murphy, D., 2014. Fundamentals of amputation care and prosthetics. New York, NY: Demos Medical Publishing, LLC, pp.1-5.
+
+> 14.Haque, R., Al-Jawazneh, S., Hoellwarth, J., Akhtar, M., Doshi, K., Tan, Y., Lu, W., Roberts, C. and Al Muderis, M., 2020. Osseointegrated reconstruction and rehabilitation of transtibial amputees: the Osseointegration Group of Australia surgical technique and protocol for a prospective cohort study. BMJ Open, [online] 10(10), p.e038346. Available at: <https://pubmed.ncbi.nlm.nih.gov/33082192/> [Accessed 10 October 2021].
 
 https://medlineplus.gov/artificiallimbs.html#:~:text=If%20you%20are%20missing%20an,nearly%20as%20well%20as%20before.
 
@@ -40,9 +42,6 @@ Skin disorders in amputees
 https://pubmed.ncbi.nlm.nih.gov/10688725/#:~:text=Results%3A%20A%20total%20of%2034,(chemical%20or%20physical)%20dermatitis.
 
 
-
-Osseointegrated reconstruction and rehabilitation of transtibial amputees: the Osseointegration Group of Australia surgical technique and protocol for a prospective cohort study 
-https://pubmed.ncbi.nlm.nih.gov/33082192/
 
 The association between body mass index and skin problems in persons with a lower limb amputation: an observational study
 https://pubmed.ncbi.nlm.nih.gov/34503484/
