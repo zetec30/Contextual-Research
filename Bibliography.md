@@ -8,11 +8,13 @@
 
 >  3.Constant’s contribution to OknoPublic01, May 26 2006
 
- > 4. Kaufman, K., 2021. Motion Analysis: Kenton R. Kaufman - Prosthetics and Orthotics Research. [online] Mayo Clinic. Available at:          <https://www.mayo.edu/research/labs/motion-analysis/research/prosthetics-orthotics-research> [Accessed 24 October 2021].
+> 4. Kaufman, K., 2021. Motion Analysis: Kenton R. Kaufman - Prosthetics and Orthotics Research. [online] Mayo Clinic. Available at:          <https://www.mayo.edu/research/labs/motion-analysis/research/prosthetics-orthotics-research> [Accessed 24 October 2021].
 
 > 5.Marks, L., 2021. Artificial limbs - Science, medicine, and the future. [online] US National Library of Medicine National Institutes of Health. Available at: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121287/> [Accessed 24 October 2021].
 
-Research Overview - Northwestern University Prosthetics ...https://www.nupoc.northwestern.edu › research
+> 6.Research Overview - Northwestern University Prosthetics ...https://www.nupoc.northwestern.edu › research
+
+> 7.Marks, A., 2021. Chapter 1, HOW WE WALK. [online] Oandplibrary.org. Available at: <http://www.oandplibrary.org/assets/pdf/Manual_of_artificial_limbs.pdf> [Accessed 24 October 2021].
 
 Prosthetics & Orthotics and Orthopaedic Devices - University ...https://www.southampton.ac.uk › assistive-technologies
 
