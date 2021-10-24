@@ -17,3 +17,17 @@ Personality Style
 > Timid and self-conscious individuals who are excessively concerned about their social standing are more likely to suffer psychologically from limb loss than are self-assured individuals[26].
 
 > Unexpected reactions may arise from secondary gain. If disability results in improved financial or social status, psychological adjustment may be made easier, especially if those gains are not directly challenged[19].(Emotional_and_Psychological_Reactions_to_Amputation [Accessed 24 Oct. 2021]).
+
+Fundamentals of Amputation Care and Prosthetics
+
+MODERN PROSTHETIC TECHNOLOGY
+
+> Technological explosion has accompanied the remarkable advances in
+the philosophical care of those with amputations. Rudimentary suspension systems have given way to innovative suction based, individually constructed socket systems. These systems allow for decreased
+pain, preservation of limb integrity, and functionality. Computer
+technology has been applied to the fitting of socket systems as well
+as to the successful replacement of missing joints. Computer assisted
+knees have now become common technology, which allows for
+better control, improved energy expenditure, and return to activities
+prohibited by mechanical technology. The quest for a functional limb
+has transformed to the quest for fully functioning bionic limbs.
