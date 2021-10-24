@@ -47,3 +47,11 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 > 21.Vujaklija, I. and Farina, D., 2018. 3D printed upper limb prosthetics. Expert Review of Medical Devices, [online] 15(7), pp.505-512. Available at: <https://www.tandfonline.com/doi/abs/10.1080/17434440.2018.1494568> [Accessed 24 October 2021].
 
 > 22.Pardo, D., Jabbour, G. and Peyghambarian, N., 2021. Application of Screen Printing in the Fabrication of Organic Light-Emitting Devices. [online] Available at: <https://onlinelibrary.wiley.com/doi/abs/10.1002/1521-4095(200009)12:17%3C1249::AID-ADMA1249%3E3.0.CO;2-Y?casa_token=uhCKoCPPCtwAAAAA%3AP8oIVy2j_SyrF6iOYiiLzjjyPlxdE6I9ksP8Q7PhJDlRzPlfmuoiGC-l75iG-ZjwwXLznFjtppW6-g> [Accessed 24 October 2021].
+
+> 23.Rahimi, M., 2021. Lithium-Ion Batteries: Latest Advances and Prospects. Batteries, [online] 7(1), p.8. Available at: <https://link.springer.com/book/10.1007%2F978-0-387-34445-4> [Accessed 23 October 2021].
+
+> 24.Ladlow, P., Phillip, R., Etherington, J., Coppack, R., Bilzon, J., McGuigan, M. and Bennett, A., 2015. Functional and Mental Health Status of United Kingdom Military Amputees Postrehabilitation. Archives of Physical Medicine and Rehabilitation, [online] 96(11), pp.2048-2054. Available at: <https://www.sciencedirect.com/science/article/pii/S0003999315006486> [Accessed 23 October 2021].
+
+> 25.Ottobockus.com. 2021. Silicone cover for lower limb prostheses. [online] Available at: <https://www.ottobockus.com/products/custom-silicone-leg-cover/> [Accessed 24 October 2021].
+
+> 26.unyq.com. (n.d.). » Home EN. [online] Available at: https://unyq.com/en-language/home-en/.[accessed 24 October 2021].
