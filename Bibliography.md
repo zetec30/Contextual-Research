@@ -55,3 +55,9 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 > 25.Ottobockus.com. 2021. Silicone cover for lower limb prostheses. [online] Available at: <https://www.ottobockus.com/products/custom-silicone-leg-cover/> [Accessed 24 October 2021].
 
 > 26.unyq.com. (n.d.). » Home EN. [online] Available at: https://unyq.com/en-language/home-en/.[accessed 24 October 2021].
+
+> 27.Fred’s Legs. (n.d.). Prosthetic Covers. [online] Available at: https://fredslegs.com/collections/prosthetic-sleeve-covers [Accessed 24 Oct. 2021].
+
+> 28.Blatchford - Mobility Made Possible. (n.d.). Lower Limb Prosthetics & Accessories - Blatchford Product Catalogue. [online] Available at: https://www.blatchford.co.uk/products/category/prosthetics/.
+
+> 29.pPhysiopedia. (n.d.). Emotional and Psychological Reactions to Amputation. [online] Available at: https://www.physio-pedia.com/Emotional_and_Psychological_Reactions_to_Amputation [Accessed 24 Oct. 2021].
