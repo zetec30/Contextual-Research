@@ -2,7 +2,7 @@
 
 
 
->  1.A FISH CAN’T JUDGE THE WATER
+> 1.Rosenberg DE, Turner AP, Littman AJ, et al. Body mass index patterns followingdysvascular lower extremity amputation. Disabil Rehabil. 2013;35(15):1269–75. doi: 10.3109/09638288.2012.726690. - DOI - PMC - PubMed
 
 >  2.News · June 2nd, 2006 · Femke
 
@@ -32,23 +32,18 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 
 > 14.Haque, R., Al-Jawazneh, S., Hoellwarth, J., Akhtar, M., Doshi, K., Tan, Y., Lu, W., Roberts, C. and Al Muderis, M., 2020. Osseointegrated reconstruction and rehabilitation of transtibial amputees: the Osseointegration Group of Australia surgical technique and protocol for a prospective cohort study. BMJ Open, [online] 10(10), p.e038346. Available at: <https://pubmed.ncbi.nlm.nih.gov/33082192/> [Accessed 10 October 2021].
 
-https://medlineplus.gov/artificiallimbs.html#:~:text=If%20you%20are%20missing%20an,nearly%20as%20well%20as%20before.
+> 15.Lyon, C., Kulkarni, J., Zimersonc, E., Van Ross, E. and Beck, M., 2000. Skin disorders in amputees. Journal of the American Academy of Dermatology, [online] 42(3), pp.501-507. Available at: <https://pubmed.ncbi.nlm.nih.gov/10688725/> [Accessed 19 October 2021].
 
-https://postacutemedical.com/company/company-updates/life-after-amputation-what-to-expect-for-the-new-amputee
+> 16.Makin TR, de Vignemont F, Micera S. Soft Embodiment for Engineering Artificial Limbs. Trends Cogn Sci. 2020;24(12):965-968. doi:10.1016/j.tics.2020.09.008
 
-https://pubmed.ncbi.nlm.nih.gov/33543086/
+> 17.Cotter D. H. (1988). Artificial limbs. British medical journal (Clinical research ed.), 296(6630), 1185–1187.
 
-Skin disorders in amputees
-https://pubmed.ncbi.nlm.nih.gov/10688725/#:~:text=Results%3A%20A%20total%20of%2034,(chemical%20or%20physical)%20dermatitis.
+> 18.Das N, Nagpal N, Bankura SS. A review on the advancements in the field of upper limb prosthesis. J Med Eng Technol. 2018;42(7):532-545. doi:10.1080/03091902.2019.1576793
 
+> 19.Nathan, S., 2021. Prosthetic implant provides realistic wrist movement to amputees. [online] The Engineer. Available at: <https://www.theengineer.co.uk/prosthetic-implant-wrist-movement/> [Accessed 24 October 2021].
 
+> 20.Williams, M., 2021. [online] Limb-art.com. Available at: <https://limb-art.com/> [Accessed 24 October 2021].
 
-The association between body mass index and skin problems in persons with a lower limb amputation: an observational study
-https://pubmed.ncbi.nlm.nih.gov/34503484/
+> 21.Vujaklija, I. and Farina, D., 2018. 3D printed upper limb prosthetics. Expert Review of Medical Devices, [online] 15(7), pp.505-512. Available at: <https://www.tandfonline.com/doi/abs/10.1080/17434440.2018.1494568> [Accessed 24 October 2021].
 
-Sensing and actuation technologies for smart socket prostheses
-https://pubmed.ncbi.nlm.nih.gov/32175132/
-
-https://pubmed.ncbi.nlm.nih.gov/32021860/
-
-https://pubmed.ncbi.nlm.nih.gov/31256276/
+> 22.Pardo, D., Jabbour, G. and Peyghambarian, N., 2021. Application of Screen Printing in the Fabrication of Organic Light-Emitting Devices. [online] Available at: <https://onlinelibrary.wiley.com/doi/abs/10.1002/1521-4095(200009)12:17%3C1249::AID-ADMA1249%3E3.0.CO;2-Y?casa_token=uhCKoCPPCtwAAAAA%3AP8oIVy2j_SyrF6iOYiiLzjjyPlxdE6I9ksP8Q7PhJDlRzPlfmuoiGC-l75iG-ZjwwXLznFjtppW6-g> [Accessed 24 October 2021].
