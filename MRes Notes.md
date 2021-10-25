@@ -38,4 +38,9 @@ Surgical Complications
 Prosthetic Rehabilitation
 > The use of well-fitting prosthetic reduces pain and  post-amputation depression[5]. Conversely, if the prosthetic application is absent or delayed, greater degrees of anxiety, sadness, and self-consciousness are noted. The crucial elements appear to be the integration of the prosthesis into the body image and the concentration of attention on future function rather than on past loss(Emotional_and_Psychological_Reactions_to_Amputation [Accessed 24 Oct. 2021]).
 
+Self-esteem
+
+> Body image is a person's individual perception of his/her own body and is a multidimensional dynamic process and affected by internal factors such as age, sex, physical condition as well as external factors including social or environmental factors [10]. Body image disturbance is the result of social values emphasizing vitality and physical appearence and fitness. Therefore amputation may be seen as a sign of failure. Amputees have to adapt physically, socially, and psychologically to alterations in structure, function, and body image [11]. Data concerning body image in patients immediately after amputation is missing in the literature.
+
+> Self-esteem is a positive or negative orientation toward oneself: an overall evaluation of one's worth or value [12], [13]. Self-esteem encompasses beliefs and emotions such as triumph, despair, pride and shame [14].
 
