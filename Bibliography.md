@@ -64,4 +64,5 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 
 > 30.Holzer, L.A., Sevelda, F., Fraberger, G., Bluder, O., Kickinger, W. and Holzer, G. (2014). Body Image and Self-Esteem in Lower-Limb Amputees. PLoS ONE, 9(3), p.e92943.
 
+> 31.Gozaydinoglu, S., Hosbay, Z. and Durmaz, H. (2019). Body image perception, compliance with a prosthesis and cognitive performance in transfemoral amputees. Acta Orthopaedica et Traumatologica Turcica, 53(3), pp.221–225.
 
