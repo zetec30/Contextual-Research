@@ -44,3 +44,9 @@ Self-esteem
 
 > Self-esteem is a positive or negative orientation toward oneself: an overall evaluation of one's worth or value [12], [13]. Self-esteem encompasses beliefs and emotions such as triumph, despair, pride and shame(Holzer et al., 2014).
 
+Phantom Limb Pain
+Steven D. Waldman MD, JD, in Pain Review, 2009
+
+Signs and Symptoms
+> The phantom limb pain may take multiple forms. It most often takes the form of dysesthetic pain. Additionally, the patient with phantom limb pain may experience abnormal kinesthetic sensation (i.e., the limb is in an abnormal position). The patient may also experience abnormal kinetic sensation (i.e., that the phantom limb is moving). It has been reported that many patients with phantom limb pain experience a telescoping phenomenon (i.e., that the proximal part of the absent limb is missing). When this occurs, that patient may report that the phantom foot feels like it is attached directly to the proximal thigh. Phantom limb pain may fade over time, with younger patients more likely to experience a diminution of phantom limb symptomatology. Due to the unusual nature of phantom limb sensation and pain, a behavioral component to the pain is invariably present.Steven D. Waldman MD, JD, in Pain Review, 2009
+
