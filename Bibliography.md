@@ -61,3 +61,7 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 > 28.Blatchford - Mobility Made Possible. (n.d.). Lower Limb Prosthetics & Accessories - Blatchford Product Catalogue. [online] Available at: https://www.blatchford.co.uk/products/category/prosthetics/.
 
 > 29.pPhysiopedia. (n.d.). Emotional and Psychological Reactions to Amputation. [online] Available at: https://www.physio-pedia.com/Emotional_and_Psychological_Reactions_to_Amputation [Accessed 24 Oct. 2021].
+
+> 30.Holzer, L.A., Sevelda, F., Fraberger, G., Bluder, O., Kickinger, W. and Holzer, G. (2014). Body Image and Self-Esteem in Lower-Limb Amputees. PLoS ONE, 9(3), p.e92943.
+
+
