@@ -32,10 +32,10 @@ better control, improved energy expenditure, and return to activities
 prohibited by mechanical technology. The quest for a functional limb
 has transformed to the quest for fully functioning bionic limbs.
 
-> Surgical Complications
-Those individuals who suffer pain, infection, and residual-limb revision tend to develop greater degrees of despair and withdrawal than those who do not.  A poorly performed amputation almost guarantees poor rehabilitation. While a well-performed amputation does not guarantee a successful rehabilitation outcome, it certainly makes successful rehabilitation more possible(Emotional_and_Psychological_Reactions_to_Amputation [Accessed 24 Oct. 2021]).
+Surgical Complications
+> Those individuals who suffer pain, infection, and residual-limb revision tend to develop greater degrees of despair and withdrawal than those who do not.  A poorly performed amputation almost guarantees poor rehabilitation. While a well-performed amputation does not guarantee a successful rehabilitation outcome, it certainly makes successful rehabilitation more possible(Emotional_and_Psychological_Reactions_to_Amputation [Accessed 24 Oct. 2021]).
 
-> Prosthetic Rehabilitation
-The use of well-fitting prosthetic reduces pain and  post-amputation depression[5]. Conversely, if the prosthetic application is absent or delayed, greater degrees of anxiety, sadness, and self-consciousness are noted. The crucial elements appear to be the integration of the prosthesis into the body image and the concentration of attention on future function rather than on past loss(Emotional_and_Psychological_Reactions_to_Amputation [Accessed 24 Oct. 2021]).
+Prosthetic Rehabilitation
+> The use of well-fitting prosthetic reduces pain and  post-amputation depression[5]. Conversely, if the prosthetic application is absent or delayed, greater degrees of anxiety, sadness, and self-consciousness are noted. The crucial elements appear to be the integration of the prosthesis into the body image and the concentration of attention on future function rather than on past loss(Emotional_and_Psychological_Reactions_to_Amputation [Accessed 24 Oct. 2021]).
 
 
