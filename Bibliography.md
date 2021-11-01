@@ -68,3 +68,5 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 
 >32.Xie, J. and Lu, Y., 2021. A retrospective on lithium-ion batteries. [online] Available at: <https://www.nature.com/articles/s41467-020-16259-9> [Accessed 1 November 2021].
 
+>33.ZME Science. 2021. Motors developed for space station drive self-charging prosthetic leg. [online] Available at: <https://www.zmescience.com/science/news-science/motors-developed-for-space-station-drive-self-charging-prosthetic-leg/> [Accessed 1 November 2021].
+
