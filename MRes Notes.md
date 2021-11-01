@@ -142,5 +142,5 @@ FlexCell is compatible with terminal devices that accept 7.4V power inputs.  Ple
 
 The FlexCell system is hardware-limited to 7A current output before automatic safety shut-off.
 
-Technical Specif ications
+Technical Specifications(FlexCell, 2021)
 
