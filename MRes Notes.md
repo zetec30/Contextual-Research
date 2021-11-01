@@ -68,3 +68,16 @@ Anode
 
 >Lithium metal is the lightest metal and possesses a high specific capacity (3.86 Ah g−1) and an extremely low electrode potential (−3.04 V vs. standard hydrogen electrode), rendering it an ideal anode material for high-voltage and high-energy batteries. However, the electrochemical potential of Li+/Li lies above the lowest unoccupied molecular orbital (LUMO) of practically known non-aqueous electrolytes, leading to continuous electrolyte reduction unless a passivating solid electrolyte interface (SEI) is formed1. The SEI is susceptible to damage and repairs nonuniformly on the surface of lithium metal owing to the large volume change and high reactivity of lithium metal, leading to dendrite growth, which could cause cell to short-circuit and catch fire.
 
+Power 
+
+>Mechanical engineers at the University of Michigan have repurposed small motors originally designed for the International Space Station (ISS) into a high-tech prosthetic leg that mimics natural biomechanics. The bionic limb offers a more natural gait and is quiter than previous prosthetics. Like electric vehicles, the prosthetic limb charges the battery every time the it ‘hits the breaks’ — in this case, energy is captured every time the foot hits the ground. This enables users to almost double their walking time on a single charge per day.
+
+>“Our prosthetic leg consumes approximately half the battery power of state-of-art robotic legs, yet can produce more force,” said Robert Gregg, an associate professor of electrical and computer engineering at the University of Michigan.
+
+>“If the joints are stiff or rigid, the force is transferred to the residual limb, and that can be painful,” Gregg said. “Instead, we use that force to charge the battery.”
+
+>One of the space station motors powers the knee while another powers the ankle. Unlike previous robotic prosthethics, this arrangement uses fewer gears, thereby greatly reducing the noise from the scale of a vacuum cleaner to a refrigerator.
+
+>“We designed our joints to be as compliant, or flexible, as possible,” said Toby Elery of the University of Michigan and first author of the study. “Our robotic leg can perform and even react like a human joint would, enabling a naturally free-swinging knee and shock absorption when contacting the ground.” (Motors developed for space station drive self-charging prosthetic leg, 2021).
+
+
