@@ -153,3 +153,12 @@ Platinum silicone
 Plant Based Plastics
 
 
+>Most prosthetic manufacturing companies use crude oils that are expensive and not
+environmentally friendly. The use of natural materials is a more efficient alternative in creating
+prosthetics today. Methods of producing a cost-effective, functional, and environmentally
+friendly material involves utilizing polyhydroxyalkanoate (PHA) that is derived from biological
+processes. Incorporating this biopolymer into prosthetics will be a step forward for the prosthetic
+and plastic industries. By contacting a manufacturing company and proposing these alternative
+methods, the extraction of hazardous crude oils, and the future cost of prosthetics could be
+reduced.
+Video Link: https://www.youtube.com/watch?v=W_DV0l2mgBE
