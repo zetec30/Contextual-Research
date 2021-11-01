@@ -70,3 +70,4 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 
 >33.ZME Science. 2021. Motors developed for space station drive self-charging prosthetic leg. [online] Available at: <https://www.zmescience.com/science/news-science/motors-developed-for-space-station-drive-self-charging-prosthetic-leg/> [Accessed 1 November 2021].
 
+>34.I-biomed.com. 2021. FlexCell. [online] Available at: <https://www.i-biomed.com/flexcell.html> [Accessed 1 November 2021].
