@@ -144,3 +144,12 @@ The FlexCell system is hardware-limited to 7A current output before automatic sa
 
 Technical Specifications(FlexCell, 2021)
 
+Materials:
+
+Platinum silicone
+
+>Made primarily of sand, food grade platinum silicone is flexible and durable. It’s also heat tolerant, so you can boil, bake, and cook in these products without danger of denaturing.
+
+Plant Based Plastics
+
+
