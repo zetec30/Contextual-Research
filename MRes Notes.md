@@ -58,3 +58,13 @@ Body image perception, compliance with a prosthesis and cognitive performance in
 
 > The loss of a limb by amputation affects body image perception dramatically. As the amputation level increases the discomfort of the amputee from his/her own image increases.4 The discomfort from body image affects negatively an amputees quality of life ((Gozaydinoglu, Hosbay and Durmaz, 2019).
 
+Xie, J. and Lu, Y., 2021. A retrospective on lithium-ion batteries.
+
+Full-cell Li-ion batteries
+
+>Asahi Kasei Corporation assembled a full rechargeable battery combining the petroleum coke anode with Goodenough’s LiCoO2 cathode, which was later commercialized by Sony in 1990 (~80 Wh kg–1, 200 Wh L–1) (Fig. 1). The finding of Sanyo’s researchers6,15 and Dahn’s work16 with EC as co-solvent paved the way for the development of Li-ion batteries with a graphite anode and increased the voltage and energy density to 4.2 V and 400 Wh L–1 respectively. In 1993, Guyomard and Tarascon18 reported a new electrolyte formulation, LiPF6 in EC/DMC, for its improved oxidation stability (Fig. 1b). This electrolyte remains one of the popular electrolytes until today, affording LiCoO2-based Li-ion batteries three times higher energy density (250 Wh kg–1, 600 Wh L–1) than that of the first-generation devices by Sony.
+
+Anode
+
+>Lithium metal is the lightest metal and possesses a high specific capacity (3.86 Ah g−1) and an extremely low electrode potential (−3.04 V vs. standard hydrogen electrode), rendering it an ideal anode material for high-voltage and high-energy batteries. However, the electrochemical potential of Li+/Li lies above the lowest unoccupied molecular orbital (LUMO) of practically known non-aqueous electrolytes, leading to continuous electrolyte reduction unless a passivating solid electrolyte interface (SEI) is formed1. The SEI is susceptible to damage and repairs nonuniformly on the surface of lithium metal owing to the large volume change and high reactivity of lithium metal, leading to dendrite growth, which could cause cell to short-circuit and catch fire.
+
