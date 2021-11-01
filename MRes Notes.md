@@ -81,3 +81,66 @@ Power
 >“We designed our joints to be as compliant, or flexible, as possible,” said Toby Elery of the University of Michigan and first author of the study. “Our robotic leg can perform and even react like a human joint would, enabling a naturally free-swinging knee and shock absorption when contacting the ground.” (Motors developed for space station drive self-charging prosthetic leg, 2021).
 
 
+FLEX CELL BATTERIES
+
+>FlexCell is not just another battery.  For size, shape, and function, FlexCells are engineered specifically to meet needs of upper-limb amputees.  It's a battery system that redefines powering prostheses.
+
+Conforms to your needs
+
+>Worry less about making spaces for batteries.  At less than 4mm thick and leveraging space-age fleixble battery technology, FlexCells can fit into tight spaces.  Making space for a battery during fabrication is now one less thing you have to worry about
+
+Form and function
+
+>Build a natural-looking and streamlined prosthesis shell.  Our low-profile design means no bulges for battery space.  Patients enjoy the look; prosthetists appreciate the ease of fabrication.
+
+![image](https://user-images.githubusercontent.com/44362077/139704914-9d00d5f7-e6c3-4864-959c-c3493016677a.png)
+
+Effortless charging
+
+>Make charging a breeze.  To charge,. snap the charger connector to the charging port - no need to struggle trying to plug a connector in.  If the cord is pulled, the magnetic connector comes right off.
+
+Capacity for you
+
+>Tailor the capacity to your needs.  FlexCells come in two different pack sizes and up to four packs can be combined in one system.  Combine four FlexCells for an all-day capacity of 2200 mAh or install two FlexCell Minis for the ultimate lightweight prosthesis.  For every case in between, there's a FlexCell system that's right for you.
+
+Tech spcs 
+
+>
+Charge current (>1100 mAh systems): Max 1.1A
+
+Charge current (<1100 mAh systems): Max 550 mA
+
+ 
+
+Charge time: 3.5 hours maximum
+
+Battery composition: Lithium-Polymer
+
+ 
+
+RoHS Compliant
+
+ 
+
+CE Marked
+
+ 
+
+Each battery is protected against short circuits, overvoltage, undervoltage, and overcurrent.
+
+ 
+
+2-year expected service life
+
+7.4VDC Output
+
+ 
+
+FlexCell is compatible with terminal devices that accept 7.4V power inputs.  Please contact us with any compatibility questions.
+
+ 
+
+The FlexCell system is hardware-limited to 7A current output before automatic safety shut-off.
+
+Technical Specif ications
+
