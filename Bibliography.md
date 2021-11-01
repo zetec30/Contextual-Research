@@ -71,3 +71,5 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 >33.ZME Science. 2021. Motors developed for space station drive self-charging prosthetic leg. [online] Available at: <https://www.zmescience.com/science/news-science/motors-developed-for-space-station-drive-self-charging-prosthetic-leg/> [Accessed 1 November 2021].
 
 >34.I-biomed.com. 2021. FlexCell. [online] Available at: <https://www.i-biomed.com/flexcell.html> [Accessed 1 November 2021].
+
+>35.Eartheasy Guides & Articles. 2021. The Best Eco-Friendly Alternatives for the Plastic in Your Life. [online] Available at: <https://learn.eartheasy.com/guides/the-best-eco-friendly-alternatives-for-the-plastic-in-your-life/> [Accessed 1 November 2021].
