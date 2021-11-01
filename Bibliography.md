@@ -66,3 +66,5 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 
 > 31.Gozaydinoglu, S., Hosbay, Z. and Durmaz, H. (2019). Body image perception, compliance with a prosthesis and cognitive performance in transfemoral amputees. Acta Orthopaedica et Traumatologica Turcica, 53(3), pp.221–225.
 
+>32.Xie, J. and Lu, Y., 2021. A retrospective on lithium-ion batteries. [online] Available at: <https://www.nature.com/articles/s41467-020-16259-9> [Accessed 1 November 2021].
+
