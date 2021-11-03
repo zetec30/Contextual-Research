@@ -176,6 +176,17 @@ Peg on November 07, 2018(Reviews, Inc., 2021)
 The look of a prosthesis
 is called ‘cosmesis’(www.limbs4life.org.au)
 
+
+ALLELES Design Studio // www.alleles.ca
+
+ART4LEG // www.art4leg.com
+
+Fred’s Legs // www.fredslegs.com
+
+Prosthetic Ink // www.facebook.com/ProstheticInk
+
+UNYQ // www.unyq.com
+
 What are cosmetic covers?
 Cosmetic covers sit over all the parts between the
 socket and the end of the prosthesis (foot or hand).
