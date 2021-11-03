@@ -195,3 +195,5 @@ may have a cosmetic cover placed from the foot to the
 knee area. 
 
 "while the advancements in prosthetic limb technology have been huge, amputees have not had much choice when it comes to adapting a prosthesis to match their own style" (amplitude, 2021)
+
+https://livingwithamplitude.com/article/ted-talks/
