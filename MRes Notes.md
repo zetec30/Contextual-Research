@@ -175,3 +175,10 @@ Peg on November 07, 2018(Reviews, Inc., 2021)
 
 The look of a prosthesis
 is called ‘cosmesis’(www.limbs4life.org.au)
+
+What are cosmetic covers?
+Cosmetic covers sit over all the parts between the
+socket and the end of the prosthesis (foot or hand).
+For example, someone with a below-knee amputation
+may have a cosmetic cover placed from the foot to the
+knee area. 
