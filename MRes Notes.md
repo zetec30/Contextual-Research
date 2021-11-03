@@ -172,3 +172,6 @@ Carol Southern on January 14, 2020 (Reviews, Inc., 2021)
 >I am particularly concerned about curious young children . . . I want them to be comfortable and I encourage questions from them. As said, the human spirit is undaunted – I want people to know that.
 
 Peg on November 07, 2018(Reviews, Inc., 2021)
+
+The look of a prosthesis
+is called ‘cosmesis’
