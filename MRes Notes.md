@@ -164,3 +164,7 @@ reduced.
 Video Link: https://www.youtube.com/watch?v=W_DV0l2mgBE
 
 "Along with this perspective shift comes the various leg designs that express the personality of the wearer" (Inc., 2021)
+
+>I grew up in the 1950s & 60s. Before my leg was amputated at the age of 12, I had a brace & 7-inch platform shoe which stuck out like a sore thumb. Kids will pick on anything out of the ordinary, so I was teased a lot. All I ever wanted to do was look like everyone else. I’m too self-conscious to go out in public without a “natural” cover. I’ve had too many negative reactions over the years; I just don’t want to deal with it anymore.
+
+>Carol Southern on January 14, 2020 (Inc., 2021)
