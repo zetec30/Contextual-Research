@@ -162,3 +162,5 @@ and plastic industries. By contacting a manufacturing company and proposing thes
 methods, the extraction of hazardous crude oils, and the future cost of prosthetics could be
 reduced.
 Video Link: https://www.youtube.com/watch?v=W_DV0l2mgBE
+
+"Along with this perspective shift comes the various leg designs that express the personality of the wearer" (Inc., 2021)
