@@ -77,3 +77,5 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 >36.Inc., A., 2021. Prosthetic Leg: To Cover or Not to Cover?. [online] Amputee Store. Available at: <https://amputeestore.com/blogs/amputee-life/prosthetic-leg-to-cover-or-not-to-cover> [Accessed 3 November 2021].
 
 >37.2021. [online] Available at: <https://www.limbs4life.org.au/uploads/resources/Fact-Sheet-7.pdf> [Accessed 3 November 2021].
+
+>38.UNIQUELY YOU. 2021. amplitude. [online] Available at: <https://livingwithamplitude.com/article/uniquely-you/> [Accessed 3 November 2021].
