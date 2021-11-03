@@ -167,4 +167,8 @@ Video Link: https://www.youtube.com/watch?v=W_DV0l2mgBE
 
 >I grew up in the 1950s & 60s. Before my leg was amputated at the age of 12, I had a brace & 7-inch platform shoe which stuck out like a sore thumb. Kids will pick on anything out of the ordinary, so I was teased a lot. All I ever wanted to do was look like everyone else. I’m too self-conscious to go out in public without a “natural” cover. I’ve had too many negative reactions over the years; I just don’t want to deal with it anymore.
 
->Carol Southern on January 14, 2020 (Inc., 2021)
+Carol Southern on January 14, 2020 (Reviews, Inc., 2021)
+
+>I am particularly concerned about curious young children . . . I want them to be comfortable and I encourage questions from them. As said, the human spirit is undaunted – I want people to know that.
+
+Peg on November 07, 2018(Reviews, Inc., 2021)
