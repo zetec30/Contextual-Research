@@ -73,3 +73,5 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 >34.I-biomed.com. 2021. FlexCell. [online] Available at: <https://www.i-biomed.com/flexcell.html> [Accessed 1 November 2021].
 
 >35.Eartheasy Guides & Articles. 2021. The Best Eco-Friendly Alternatives for the Plastic in Your Life. [online] Available at: <https://learn.eartheasy.com/guides/the-best-eco-friendly-alternatives-for-the-plastic-in-your-life/> [Accessed 1 November 2021].
+
+>36.Inc., A., 2021. Prosthetic Leg: To Cover or Not to Cover?. [online] Amputee Store. Available at: <https://amputeestore.com/blogs/amputee-life/prosthetic-leg-to-cover-or-not-to-cover> [Accessed 3 November 2021].
