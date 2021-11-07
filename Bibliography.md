@@ -81,3 +81,6 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 >38.UNIQUELY YOU. 2021. amplitude. [online] Available at: <https://livingwithamplitude.com/article/uniquely-you/> [Accessed 3 November 2021].
 
 >39.Positive News. 2021. Researchers have turned plastic water bottles into prosthetic limbs - Positive News. [online] Available at: <https://www.positive.news/science/researchers-have-turned-plastic-water-bottles-into-prosthetic-limbs/> [Accessed 7 November 2021].
+
+>40.Bioplastics: An Alternative to Petrochemical Plastics in
+Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics – An Eco-friendly Alternative to Petrochemical Plastics. Current World Environment, 14(1), pp.49-59.
