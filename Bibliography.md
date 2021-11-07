@@ -86,3 +86,5 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics – An Eco-friendly Alternative to Petrochemical Plastics. Current World Environment, 14(1), pp.49-59.https://rucore.libraries.rutgers.edu/rutgers-lib/47892/PDF/1/play/
 
 >41.The Hemp Plastic Company. 2021. The Hemp Plastic Company | Creating a Greener Future. [online] Available at: <https://hempplastic.com/> [Accessed 7 November 2021].
+
+>42.Hash Marihuana & Hemp Museum. 2021. Hemp-based plastic - Hash Marihuana & Hemp Museum. [online] Available at: <https://hashmuseum.com/en/cannabis-knowledge/industrial-hemp/hemp-based-plastic/> [Accessed 7 November 2021].
