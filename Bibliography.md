@@ -79,3 +79,5 @@ https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 >37.2021. [online] Available at: <https://www.limbs4life.org.au/uploads/resources/Fact-Sheet-7.pdf> [Accessed 3 November 2021].
 
 >38.UNIQUELY YOU. 2021. amplitude. [online] Available at: <https://livingwithamplitude.com/article/uniquely-you/> [Accessed 3 November 2021].
+
+>39.Positive News. 2021. Researchers have turned plastic water bottles into prosthetic limbs - Positive News. [online] Available at: <https://www.positive.news/science/researchers-have-turned-plastic-water-bottles-into-prosthetic-limbs/> [Accessed 7 November 2021].
