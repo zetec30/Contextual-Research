@@ -88,3 +88,5 @@ Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics â
 >41.The Hemp Plastic Company. 2021. The Hemp Plastic Company | Creating a Greener Future. [online] Available at: <https://hempplastic.com/> [Accessed 7 November 2021].
 
 >42.Hash Marihuana & Hemp Museum. 2021. Hemp-based plastic - Hash Marihuana & Hemp Museum. [online] Available at: <https://hashmuseum.com/en/cannabis-knowledge/industrial-hemp/hemp-based-plastic/> [Accessed 7 November 2021].
+
+>43.Cambridgeconsultants.com. 2021. POLYHYDROXYALKANOATES: PLASTIC THE WAY NATURE INTENDED?. [online] Available at: <https://www.cambridgeconsultants.com/sites/default/files/uploaded-pdfs/PHA%20-%20plastic%20the%20way%20nature%20intended_1.pdf> [Accessed 7 November 2021].
