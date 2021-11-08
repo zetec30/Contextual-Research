@@ -94,3 +94,5 @@ Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics â
 >44.https://www.flexenable.com/blog/organic-lcd-technology-paving-the-way-to-flexible-displays/
 
 >45.https://www.businesswire.com/news/home/20210201005990/en/New-Samsung-OLED-Panel-Stays-Clear-Outdoors-%E2%80%95-UL-verified-for-Sunlight-Visibility
+
+>46.Townsend, K., CufiÌ, C., Akiba and Davidson, R., n.d. Getting started with Bluetooth low energy.
