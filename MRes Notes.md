@@ -201,3 +201,8 @@ https://livingwithamplitude.com/article/ted-talks/
 >PHAS ARE BIO-BASED, BIODEGRADABLE
 PLASTICS, PRODUCED BY FERMENTATION FROM
 A RANGE OF FEEDSTOCKS, INCLUDING WASTE. (POLYHYDROXYALKANOATES: PLASTIC THE WAY NATURE INTENDED?, 2021)
+
+Oled Samsung screen 
+>New Samsung OLED Panel Stays Clear Outdoors ― UL-verified for Sunlight Visibility
+The display is made with a new organic material to achieve a peak brightness of more than 1,500 nits
+With much improved image quality outdoors, Samsung Display said its new OLED display will significantly enhance the world of 5G smartphones[bibliography, 45]
