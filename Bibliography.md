@@ -92,3 +92,5 @@ Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics â
 >43.Cambridgeconsultants.com. 2021. POLYHYDROXYALKANOATES: PLASTIC THE WAY NATURE INTENDED?. [online] Available at: <https://www.cambridgeconsultants.com/sites/default/files/uploaded-pdfs/PHA%20-%20plastic%20the%20way%20nature%20intended_1.pdf> [Accessed 7 November 2021].
 
 >44.https://www.flexenable.com/blog/organic-lcd-technology-paving-the-way-to-flexible-displays/
+
+>45.https://www.businesswire.com/news/home/20210201005990/en/New-Samsung-OLED-Panel-Stays-Clear-Outdoors-%E2%80%95-UL-verified-for-Sunlight-Visibility
