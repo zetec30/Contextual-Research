@@ -96,3 +96,5 @@ Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics �
 >45.https://www.businesswire.com/news/home/20210201005990/en/New-Samsung-OLED-Panel-Stays-Clear-Outdoors-%E2%80%95-UL-verified-for-Sunlight-Visibility
 
 >46.Townsend, K., Cufí, C., Akiba and Davidson, R., n.d. Getting started with Bluetooth low energy.
+
+>47.Murawski, C. and Gather, M., 2021. Emerging Biomedical Applications of Organic Light‐Emitting Diodes. Advanced Optical Materials, 9(14), p.2100269.
