@@ -98,3 +98,5 @@ Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics �
 >46.Townsend, K., Cufí, C., Akiba and Davidson, R., n.d. Getting started with Bluetooth low energy.
 
 >47.Murawski, C. and Gather, M., 2021. Emerging Biomedical Applications of Organic Light‐Emitting Diodes. Advanced Optical Materials, 9(14), p.2100269.
+
+>48.Physiopedia. 2021. Emotional and Psychological Reactions to Amputation. [online] Available at: <https://www.physio-pedia.com/Emotional_and_Psychological_Reactions_to_Amputation#:~:text=About%20%E2%89%A530%25%20of%20amputees,term%20follow%20up%20after%20amputation.> [Accessed 11 November 2021].
