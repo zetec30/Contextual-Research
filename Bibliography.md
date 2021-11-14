@@ -28,6 +28,7 @@ Fotoforensics.com. 2021. FotoForensics. [online] Available at: <http://fotoforen
 > 12.Joanna Zylinska (London and New York: Continuum), pp. 114-130. [authors’s self-archived manuscript]        
 https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-020-00711-4
 
+
 > 13.Murphy, D., 2014. Fundamentals of amputation care and prosthetics. New York, NY: Demos Medical Publishing, LLC, pp.1-5.
 
 > 14.Haque, R., Al-Jawazneh, S., Hoellwarth, J., Akhtar, M., Doshi, K., Tan, Y., Lu, W., Roberts, C. and Al Muderis, M., 2020. Osseointegrated reconstruction and rehabilitation of transtibial amputees: the Osseointegration Group of Australia surgical technique and protocol for a prospective cohort study. BMJ Open, [online] 10(10), p.e038346. Available at: <https://pubmed.ncbi.nlm.nih.gov/33082192/> [Accessed 10 October 2021].
@@ -100,3 +101,5 @@ Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics �
 >47.Murawski, C. and Gather, M., 2021. Emerging Biomedical Applications of Organic Light‐Emitting Diodes. Advanced Optical Materials, 9(14), p.2100269.
 
 >48.Physiopedia. 2021. Emotional and Psychological Reactions to Amputation. [online] Available at: <https://www.physio-pedia.com/Emotional_and_Psychological_Reactions_to_Amputation#:~:text=About%20%E2%89%A530%25%20of%20amputees,term%20follow%20up%20after%20amputation.> [Accessed 11 November 2021].
+
+>49.Kuiken, T. and Soltys, N., 2007. Technical Note: An Economical Cosmetic Covering for Preparatory Prostheses. JPO Journal of Prosthetics and Orthotics, 19(2), pp.37-39.
