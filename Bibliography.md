@@ -105,3 +105,5 @@ Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics â
 >49.Kuiken, T. and Soltys, N., 2007. Technical Note: An Economical Cosmetic Covering for Preparatory Prostheses. JPO Journal of Prosthetics and Orthotics, 19(2), pp.37-39.
 
 >50.The Alternative Limb Project. 2021. The Alternative Limb Project. [online] Available at: <https://thealternativelimbproject.com/> [Accessed 14 November 2021].
+
+>51.International Journal of Dsign. 2021. The Aesthetic Appeal of Prosthetic Limbs and the Uncanny Valley: The Role of Personal Characteristics in Attraction. [online] Available at: <http://www.ijdesign.org/index.php/IJDesign/article/view/1450/676> [Accessed 14 November 2021].
