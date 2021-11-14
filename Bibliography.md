@@ -103,3 +103,5 @@ Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics â
 >48.Physiopedia. 2021. Emotional and Psychological Reactions to Amputation. [online] Available at: <https://www.physio-pedia.com/Emotional_and_Psychological_Reactions_to_Amputation#:~:text=About%20%E2%89%A530%25%20of%20amputees,term%20follow%20up%20after%20amputation.> [Accessed 11 November 2021].
 
 >49.Kuiken, T. and Soltys, N., 2007. Technical Note: An Economical Cosmetic Covering for Preparatory Prostheses. JPO Journal of Prosthetics and Orthotics, 19(2), pp.37-39.
+
+>50.The Alternative Limb Project. 2021. The Alternative Limb Project. [online] Available at: <https://thealternativelimbproject.com/> [Accessed 14 November 2021].
