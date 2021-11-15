@@ -18,6 +18,8 @@ Personality Style
 
 > Unexpected reactions may arise from secondary gain. If disability results in improved financial or social status, psychological adjustment may be made easier, especially if those gains are not directly challenged[19].(Emotional_and_Psychological_Reactions_to_Amputation [Accessed 24 Oct. 2021]).
 
+>because of the risk inherent in trying to increase their degree of human likeness to scale the second peak, I recommend that designers instead take the first peak as their goal, which results in a moderate degree of human likeness and a considerable sense of affinity. In fact, I predict that it is possible to create a safe level of affinity by deliberately pursuing a nonhuman design. I ask designers to ponder this. To illustrate the principle, consider eyeglasses. Eyeglasses do not resemble real eye-balls, but one could say that their design has created a charming pair of new eyes. So we should follow the same principle in designing prosthetic hands. In doing so, instead of pitiful-looking realistic hands, stylish ones would likely become fashionable.(The Uncanny Valley: The Original Essay by Masahiro Mori, 2021)
+
 Fundamentals of Amputation Care and Prosthetics
 
 MODERN PROSTHETIC TECHNOLOGY
@@ -206,3 +208,5 @@ Oled Samsung screen
 >New Samsung OLED Panel Stays Clear Outdoors ― UL-verified for Sunlight Visibility
 The display is made with a new organic material to achieve a peak brightness of more than 1,500 nits
 With much improved image quality outdoors, Samsung Display said its new OLED display will significantly enhance the world of 5G smartphones[bibliography, 45]
+
+Mental health 
