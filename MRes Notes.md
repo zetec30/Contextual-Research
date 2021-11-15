@@ -209,4 +209,6 @@ Oled Samsung screen
 The display is made with a new organic material to achieve a peak brightness of more than 1,500 nits
 With much improved image quality outdoors, Samsung Display said its new OLED display will significantly enhance the world of 5G smartphones[bibliography, 45]
 
-Mental health 
+Prosthetics and art
+
+>The Alternative Limb Project. 2021. The Alternative Limb Project. [online] Available at: <https://thealternativelimbproject.com/> [Accessed 15 November 2021].
