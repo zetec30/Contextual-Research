@@ -210,5 +210,6 @@ The display is made with a new organic material to achieve a peak brightness of 
 With much improved image quality outdoors, Samsung Display said its new OLED display will significantly enhance the world of 5G smartphones[bibliography, 45]
 
 Prosthetics and art
-Merging the latest technology with traditional crafts, Sophie’s creations explore themes of body image, modification, evolution and transhumanism, whilst promoting positive conversations around disability and celebrating body diversity.
+Merging the latest technology with traditional crafts, Sophie’s creations explore themes of body image, modification, evolution and transhumanism, whilst promoting positive conversations around disability and celebrating body diversity. “I want to change the way society perceives disability – showing disability can be cool, fashionable, beautiful and powerful… it’s like my body is a canvas and when wearing an Alternative Limb, I become the art”
+Kelly Knox
 >The Alternative Limb Project. 2021. The Alternative Limb Project. [online] Available at: <https://thealternativelimbproject.com/> [Accessed 15 November 2021].
