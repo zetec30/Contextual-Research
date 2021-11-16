@@ -109,3 +109,5 @@ Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics â
 >51.International Journal of Dsign. 2021. The Aesthetic Appeal of Prosthetic Limbs and the Uncanny Valley: The Role of Personal Characteristics in Attraction. [online] Available at: <http://www.ijdesign.org/index.php/IJDesign/article/view/1450/676> [Accessed 14 November 2021].
 
 >52.IEEE Spectrum. 2021. The Uncanny Valley: The Original Essay by Masahiro Mori. [online] Available at: <https://spectrum.ieee.org/the-uncanny-valley> [Accessed 15 November 2021].
+
+>53.Milton, C., 2021. Your Brain On Confidence. [online] Forbes. Available at: <https://www.forbes.com/sites/carolyncenteno/2018/04/18/your-brain-on-confidence/?sh=5b41edc060cb> [Accessed 16 November 2021].
