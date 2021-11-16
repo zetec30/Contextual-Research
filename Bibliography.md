@@ -111,3 +111,5 @@ Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics â
 >52.IEEE Spectrum. 2021. The Uncanny Valley: The Original Essay by Masahiro Mori. [online] Available at: <https://spectrum.ieee.org/the-uncanny-valley> [Accessed 15 November 2021].
 
 >53.Milton, C., 2021. Your Brain On Confidence. [online] Forbes. Available at: <https://www.forbes.com/sites/carolyncenteno/2018/04/18/your-brain-on-confidence/?sh=5b41edc060cb> [Accessed 16 November 2021].
+
+>54.Poliakoff, E., Oâ€™Kane, S., Carefoot, O., Kyberd, P. and Gowen, E., 2018. Investigating the uncanny valley for prosthetic hands. Prosthetics & Orthotics International, 42(1), pp.21-27.
