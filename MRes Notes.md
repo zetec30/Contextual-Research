@@ -213,3 +213,9 @@ Prosthetics and art
 Merging the latest technology with traditional crafts, Sophie’s creations explore themes of body image, modification, evolution and transhumanism, whilst promoting positive conversations around disability and celebrating body diversity. “I want to change the way society perceives disability – showing disability can be cool, fashionable, beautiful and powerful… it’s like my body is a canvas and when wearing an Alternative Limb, I become the art”
 Kelly Knox
 >The Alternative Limb Project. 2021. The Alternative Limb Project. [online] Available at: <https://thealternativelimbproject.com/> [Accessed 15 November 2021].
+
+History of limb loss
+
+>An effective prosthesis delivers renewed functionality and is cosmetically pleasing, but it also serves to complete the wearer’s sense of wholeness. A prosthesis then, is as much medical device as it is an emotional comfort, and so the history of prosthetics is not only a scientific history, but the story of human beings since the dawn of civilization who by birth, wound, or accident were left with something missing.(» The History of Prosthetics, 2021)
+
+
