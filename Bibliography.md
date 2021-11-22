@@ -118,4 +118,4 @@ Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics â
 
 Historical Development of Lower-Extremity
 Prostheses
->56.Oandplibrary.org. 2021. [online] Available at: <http://www.oandplibrary.org/op/pdf/1966_04_313.pdf> [Accessed 22 November 2021].
+>56.Fliegel, O. and Feuer, S.G., 1966. Historical development of lower-extremity prostheses. Arch Phys Med Rehabil, 47(5), pp.275-285.
