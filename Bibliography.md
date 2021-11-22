@@ -115,3 +115,5 @@ Prosthetics - Selvamurugan Muthusamy, M. and Pramasivam, S., 2019. Bioplastics â
 >54.Poliakoff, E., Oâ€™Kane, S., Carefoot, O., Kyberd, P. and Gowen, E., 2018. Investigating the uncanny valley for prosthetic hands. Prosthetics & Orthotics International, 42(1), pp.21-27.
 
 >55.Park, W., 2021. The geniuses who invented prosthetic limbs. [online] Bbc.com. Available at: <https://www.bbc.com/future/article/20151030-the-geniuses-who-invented-prosthetic-limbs> [Accessed 22 November 2021].
+
+>56.Oandplibrary.org. 2021. [online] Available at: <http://www.oandplibrary.org/op/pdf/1966_04_313.pdf> [Accessed 22 November 2021].
